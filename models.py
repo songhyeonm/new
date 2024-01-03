@@ -20,4 +20,5 @@ class Comment(Base):
     writer = Column(Text, nullable= False)
     content = Column(Text, nullable = True)
 
+######
     
